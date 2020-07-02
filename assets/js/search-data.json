@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Title",
-            "content": ". 코랩으로는 어디까지 할 수 있나... .",
+            "content": ". 코랩으로는 어디까지 할 수 있나... . import numpy as np a = [1,2,3] .",
             "url": "https://dreamegg.github.io/posting/2020/07/01/_07_03_colab.html",
             "relUrl": "/2020/07/01/_07_03_colab.html",
             "date": " • Jul 1, 2020"
