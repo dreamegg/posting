@@ -4,10 +4,33 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+#Chankyoo Moon
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+##About
+
+##Interests
+AI and Deep Learning
+Inpatinging
+GAN
+Super-Resolution
+Image Domain Adapation
+Computational Photography
+
+##Exprience
+Samsung Electorincs
+Samsung Digital Imageing
+Samsung Techwin
+
+
+##Education
+###Yonsei Univ
+MS, Computer Science
+2017-2018
+
+###Hongik Univ
+BS, Computer Engineering
+2000-2007
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+
